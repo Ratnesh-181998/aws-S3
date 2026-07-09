@@ -10,6 +10,10 @@ Amazon S3 (Simple Storage Service) is a massively scalable cloud object storage 
 - https://docs.aws.amazon.com/cli/v1/userguide/cli-services-s3.html
 - https://docs.aws.amazon.com/cli/v1/userguide/cli-services-s3-commands.html
 - https://aws.amazon.com/cli/
+
+- https://github.com/marketplace/actions/aws-s3-github-action
+- https://github.com/cloudyr/aws.s3
+- https://github.com/topics/s3-bucket
   
 ---
 
