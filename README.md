@@ -1,9 +1,15 @@
-# AWS S3
+# AWS S3 Bucket 
 Amazon S3 (Simple Storage Service) is a massively scalable cloud object storage service used by developers and enterprises to store files, application assets, and massive data lakes. It lets you securely store, retrieve, and archive any amount of data ranging from a few megabytes to hundreds of exabytes
 
+- AWS S3 bucket is a public cloud storage container used to store files, data, and assets within Amazon Simple Storage Service (S3)
 - https://aws.amazon.com/s3/
 - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - https://docs.aws.amazon.com/AmazonS3/latest/userguide/GetStartedWithS3.html
+
+# AWS CLI 
+- https://docs.aws.amazon.com/cli/v1/userguide/cli-services-s3.html
+- https://docs.aws.amazon.com/cli/v1/userguide/cli-services-s3-commands.html
+- https://aws.amazon.com/cli/
   
 ---
 
